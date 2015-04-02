@@ -85,6 +85,12 @@ button:active {
 	padding:15px 15px 15px 10px;
 	font-size:20px;
 	margin:10px 0px;
+	cursor:pointer;
+}
+
+.hint {
+	font-size:15px;
+	font-weight:500;
 }
 
 .mycode {
